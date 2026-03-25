@@ -34,14 +34,8 @@ This project focuses on analyzing customer behavior and predicting churn using d
 
 ---
 
-## 🔹 Project Structure
-- data/ → cleaned dataset  
-- notebook/ → Python analysis  
-- sql/ → SQL queries  
-- images/ → dashboard screenshots (optional)  
+## 📌 Conclusion
+This project demonstrates end-to-end data analysis workflow from data cleaning to model building and business insights.
 
----
 
-## 🔹 Future Improvements
-- Add Power BI dashboard  
 - Improve model accuracy  
